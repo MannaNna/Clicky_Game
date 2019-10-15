@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/brian-griffin.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/bertram.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/carter-pewter.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/Chris_griffin.gif",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/Cleveland-brown.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/herbert.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/jillian-russell.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/lois-griffin.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/meg_griffin.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/peter-griffin.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/Stewie_Griffin.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/glenn-quagmire.jpeg",
+      "clicked": false
+    }
+  ]
